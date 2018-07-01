@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#95ba6a</color>
+    <color name="colorPrimaryDark">#63843f</color>
+    <color name="colorAccent">#7a9e54</color>
+    <color name="colorPrimaryLight">#a4ca75</color>
+    <color name="blueAccent">#078ded</color>
+    <color name="goldrod">#DAA520</color>
+    <color name="brown">#795548</color>
+    <color name="roseGray">#607D8B</color>
+    <color name="lightgray">#d9d3d3</color>
+    <color name="gray">#c7c5c5</color>
+    <color name="darkGray">#c4c3c3</color>
+    <color name="darkGray2">#847f7f</color>
+    <color name="facebook">#3b5998 </color>
+    <color name="google">#4285F4</color>
+
+</resources>

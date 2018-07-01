@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MahimaElectronics</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="sign_up_text">Please fill this form to create an account!</string>
+    <string name="title_activity_login_or_sign_up">LoginOrSignUpActivity</string>
+    <string name="tab_text_1">Sign In</string>
+    <string name="tab_text_2">Sign Up</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="no_account">Don\'t have an account? Use Sign Up</string>
+
+</resources>
