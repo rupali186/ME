@@ -12,5 +12,21 @@
     <string name="tab_text_2">Sign Up</string>
     <string name="section_format">Hello World from section: %1$d</string>
     <string name="no_account">Don\'t have an account? Use Sign Up</string>
-
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="intro_para"><b>Mahima Electronics</b> is an ISO 9001:2008 Certified Company.The foundation stone of the company
+        was laid in the year 2003. At present, we are acknowledged as a pioneer among the leading Manufacturers,
+        Exporters, Importers \u0026 Suppliers of the Industrial Products. Mr. K. C. Chawla, proprietor of the company possesses
+        more than 20 years of experience and has degrees of B.Sc. and M.B.A. We facilitate our clients from our base in Haryana,
+        India.</string>
+    <string name="our_strength">We have earned a credible name owing to out ethical business approach and wide industrial
+        experience. We are capable to understanding every minute requirement of our clients and thus, providing them products
+        that match their exact requirements. </string>
+    <string name="our_infrastructure">We have a well-developed manufacturing unit that includes state of the art inventory.
+        It enables us to meet the deadlines of even short notice bulk orders. We adopt low production costs techniques in the
+        manufacturing process.</string>
+    <string name="our_clients">With products that are at par with the highest industrial standards and a customer
+        centric approach in all the dealings, we have gained the trust of many eminent clients. Renowned Private and Government
+        firms as well as the companies engaged in defense sector procure our products.</string>
+    <string name="website_url">http://www.mahimaelectronics.com</string>
 </resources>

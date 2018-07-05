@@ -7,5 +7,6 @@
     <dimen name="fab_margin">16dp</dimen>
     <dimen name="drawable_padding_edit_text">10dp</dimen>
     <dimen name="appbar_padding_top">8dp</dimen>
+    <dimen name="table_row_padding">10dp</dimen>
 
 </resources>
